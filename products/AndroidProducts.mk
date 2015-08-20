@@ -53,6 +53,7 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/xenonhd_toro.mk \
 	$(LOCAL_DIR)/xenonhd_toroplus.mk \
 	$(LOCAL_DIR)/xenonhd_trltetmo.mk \
+	$(LOCAL_DIR)/xenonhd_trltespr.mk \
 	$(LOCAL_DIR)/xenonhd_trltexx.mk \
         $(LOCAL_DIR)/xenonhd_victara.mk \
 	$(LOCAL_DIR)/xenonhd_vigor.mk \
